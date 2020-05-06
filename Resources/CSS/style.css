@@ -2,11 +2,12 @@
     height: 32px; 
 }
 
-
+/*Devision 1*/
 .heading{
     margin-left: 24px;
     height: 32px;
 }
+
 .bold{
     font-weight: bold;
 }
@@ -26,4 +27,12 @@
 
 .Singin2{
     word-spacing: 16px;
+}
+/*Devision 2*/
+.banner{
+    margin-left: 24px;
+    margin-bottom: 32px;
+    margin-top: 32px;
+    margin-right: 24px;
+    width: 60%;
 }
