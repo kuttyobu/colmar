@@ -1,7 +1,27 @@
-body{
 
+
+
+.heading{
+    margin-left: 24px;
+    height: 32px;
 }
-
+.bold{
+    font-weight: bold;
+}
 .opacity{
     opacity: 0.2;
+}
+.Signin  {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 24px;
+    word-spacing: 16px;
+    
+}
+.Signin1{
+    word-spacing: 16px;
+}
+
+.Singin2{
+    word-spacing: 16px;
 }
