@@ -45,7 +45,20 @@
     background-color: black;
     color: white;
 }
-.Devision--2{
+.Devision--2, .inline1, .box{
     background-color: grey;
-    display: inline-block;
+    display: flex;
 }
+
+/*Devision--3*/
+.space{
+    margin-left: 24px;
+    margin-right: 24px;
+}
+
+.space1{
+    margin-top: 24px;
+    margin-left: 24px;
+    margin-right: 24px;
+    width: 60%;
+}   
