@@ -5,7 +5,7 @@
 /*Devision 1*/
 .heading{
     margin-left: 24px;
-    height: 32px;
+    height: 64px;
 }
 
 .bold{
@@ -35,4 +35,17 @@
     margin-top: 32px;
     margin-right: 24px;
     width: 60%;
+}
+.box{
+    border: solid;
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-color: black;
+    background-color: black;
+    color: white;
+}
+.Devision--2{
+    background-color: grey;
+    display: inline-block;
 }
